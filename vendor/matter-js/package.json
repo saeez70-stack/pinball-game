@@ -1,0 +1,6 @@
+{
+  "name": "matter-js",
+  "version": "0.20.0",
+  "type": "module",
+  "main": "index.js"
+}
